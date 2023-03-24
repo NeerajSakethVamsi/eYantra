@@ -1,4 +1,5 @@
 # e-yantra
+Me and Deepak Sai Majjiga created the work
 
 task_1:
 This is a ROS package, in which we have created a URDF file for a custom holonomic drive bot. Written a controller file in python to move the bot in a gazebo world. We made a controller file for bot which moves according to the goals given in the files 'goals.json'.
